@@ -3,7 +3,7 @@
 This repository contains a curated PDF file with questions and answers typically asked in a 20-hour round of technical interviews.  
 It covers a wide range of topics like Data Structures, DBMS, System Design, and more — useful for job preparation and revision.
 
-📄 **[Download PDF]()**
+📄 **[Download PDF]()*HR Interview Q&A for Freshers.pdf*
 
 ---
 
