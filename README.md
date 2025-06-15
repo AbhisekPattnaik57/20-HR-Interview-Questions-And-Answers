@@ -3,11 +3,12 @@
 This repository contains a curated PDF file with questions and answers typically asked in a 20-hour round of technical interviews.  
 It covers a wide range of topics like Data Structures, DBMS, System Design, and more — useful for job preparation and revision.
 
-📄 **[HR Interview Q&A for Freshers.pdf]()*HR Interview Q&A for Freshers.pdf*
+[HR Interview Q&A for Freshers.pdf](https://github.com/user-attachments/files/20746421/HR.Interview.Q.A.for.Freshers.pdf)
 
 ---
 
 ## 📝 Contents
+
 
 1. Tell me about yourself.
 2. Why do you want to work for this company?
