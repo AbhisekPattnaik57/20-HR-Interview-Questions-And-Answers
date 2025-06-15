@@ -1,8 +1,5 @@
 # Most Aeked 20 HR Interview Round – Questions and Answers 📘
 
-This repository contains a curated PDF file with questions and answers typically asked in a 20-hour round of technical interviews.  
-It covers a wide range of topics like Data Structures, DBMS, System Design, and more — useful for job preparation and revision.
-
 ### 📥 [🔻 Download Now – 20 HR Interview Q&A PDF](https://github.com/user-attachments/files/20746421/HR.Interview.Q.A.for.Freshers.pdf)
 
 ---
